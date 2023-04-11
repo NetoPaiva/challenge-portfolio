@@ -838,7 +838,7 @@ Campo "mensagem"
   - na página do repositŕio no GitHub
     - clicar em "settings"
     - no menu esquerdo clicar em "pages"
-    - selecionar "source/none" para "main" e salvar
+    - selecionar "Branch/none" para "main" e salvar
     - irá gerar o link do GitHub Pages
     https://netopaiva.github.io/challenge-portfolio/
 
