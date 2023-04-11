@@ -1,8 +1,12 @@
 ## Challenge ONE / Front-end
 
+**" #challengeoneportfolio4 "**
+
+
 # Portfolio Neto Paiva
 
-**" #challengeoneportfolio4 "**
+link da publicação do Portfolio: [https://netopaiva.github.io/challenge-portfolio/](https://netopaiva.github.io/challenge-portfolio/)
+
 
 ### Trilha de Especialização em Front-end
 
