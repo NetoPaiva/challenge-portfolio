@@ -773,7 +773,8 @@ Campo "mensagem"
 #### Enviar dados do formulário
 
   - Serviço de envio de formulário "Formsubmit"
-
+  - inlcuir funcionalidades de envio (input hidden)
+  - criar página de agradecimento pelo contato
 
 
 -------------------------------------------------
@@ -829,9 +830,6 @@ Campo "mensagem"
   - incluir "id" âncora nas "sections" e "nav"
 
 
-## Refatoração do formulário
-
-
 ## Publicar no GitHub
 
   - fazer commit do projeto
@@ -841,6 +839,18 @@ Campo "mensagem"
     - selecionar "Branch/none" para "main" e salvar
     - irá gerar o link do GitHub Pages
     https://netopaiva.github.io/challenge-portfolio/
+
+
+## Revisão após publicação
+
+  - refatoração do formulário
+  - verificar funcionalidades após publicação
+  - corrigir JS (export function)
+  - incluir links dos projetos (repositório e página)
+  - commit final
+  - finalizar entrega (formulário Alura)
+  - publicar entrega (linkedIn)
+  - celebrar!!!
 
 
 

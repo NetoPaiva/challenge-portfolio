@@ -15,11 +15,22 @@
   padding: 1rem;
 }
 
+.sobre__container--agradecimento{
+  background-color: var(--azul10);
+
+  display: flex;
+  /* flex-direction: row; */
+  justify-content:start;
+
+  padding: 1rem;
+}
+
 /* tablete */
 
 @media screen and (min-width:768px){
 
-  .sobre__container{
+  .sobre__container,
+  .sobre__container--agradecimento{
     padding: 2rem;  
   }
 
@@ -29,7 +40,8 @@
 
 @media screen and (min-width:1024px) {
 
-  .sobre__container{
+  .sobre__container,
+  .sobre__container--agradecimento{
     margin: auto;
     padding: 2.5rem 7rem;
 
@@ -42,7 +54,8 @@
 
 @media screen and (min-width:1440px) {
 
-  .sobre__container{
+  .sobre__container,
+  .sobre__container--agradecimento{
     margin: auto;
     margin-top: 2rem;
     padding: 4rem 9.5rem;

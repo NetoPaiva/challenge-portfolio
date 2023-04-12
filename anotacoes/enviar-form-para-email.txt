@@ -34,7 +34,7 @@ Página de agradecimento
   - nome "_next"
   - valor com o link da página de agradecimento
 
-  <input type="hidden" name="_next" value="http://localhost:3000/agradecimento.html">
+  <input type="hidden" name="_next" value="https://netopaiva.github.io/challenge-portfolio/agradecimento.html">
 
 Configurar email do usuário para receber cópia do Envio
   - criar novo campo input
